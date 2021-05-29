@@ -1,0 +1,32 @@
+Id,Name,Shape Library,Page ID,Contained By,Group,Line Source,Line Destination,Source Arrow,Destination Arrow,Text Area 1,Text Area 2,Text Area 3,Text Area 4,Text Area 5,Text Area 6,Text Area 7,Text Area 8,Text Area 9,Text Area 10,Text Area 11,Text Area 12,Text Area 13,Text Area 14,Text Area 15,Text Area 16,Text Area 17,Text Area 18,Text Area 19,Text Area 20,Text Area 21,Text Area 22,Text Area 23,Text Area 24,Text Area 25,Text Area 26,Text Area 27,Text Area 28
+1,Page,,,,,,,,,Gantt chart,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Table,Tables,1,,,,,,,,Week 1,Week 2,Analysis,, Design,,,Implementation,,,,,Test,,,,,Release,,,,Week 3,Week 4,Week 5,,,
+3,Process,Flowchart Shapes,1,,21,,,,,Legend:,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,Process,Flowchart Shapes,1,,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,Process,Flowchart Shapes,1,,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Process,Flowchart Shapes,1,,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Text,Standard,1,,21,,,,,Team 1,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Text,Standard,1,,21,,,,,Team 2,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Text,Standard,1,,21,,,,,Team 3,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Text,Standard,1,,22,,,,,Gantt chart,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Text,Standard,1,,22,,,,,"xxxx   |  May 29, 2021",,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Rectangle Container,Flowchart Shapes,1,,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Text,Standard,1,12,23,,,,,Learn how to edit tables,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Text,Standard,1,12,23,,,,,"Select the table and then use the advanced shape bar at the top of the canvas to:
+Add rows and columns where you'd like using the insert options.
+Delete specific rows and columns by selecting the row/column you want to remove and then using the delete options.
+Click on a cell and add text to it by typing.
+Select cells you would like to merge and then click ""Merge"" on the advanced shape bar at the top of the canvas.
+To unmerge cells, click on the cell and then click ""Unmerge"" on the advanced shape bar.
+Change the color of cells by selecting a cell(s) and then clicking ""Fill Color""     on the properties bar.
+
+Pro tip: Toggle the column and lane option on the advanced shape bar to quickly adjust your table. ",,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Text,Standard,1,12,23,,,,,"Tutorials (Hold Shift + ⌘ or Ctrl, then click)",,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Button,UI Mockups,1,12,23,,,,,Watch Lucidchart basic tutorials,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,Button,UI Mockups,1,12,23,,,,,Read how to use tables,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,User Image,User Images,1,12,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,SVGPathBlock2,,1,12,23,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,Line,,1,,22,,,None,None,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,Group 1,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Group 2,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Group 3,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
