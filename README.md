@@ -21,9 +21,9 @@ A dual player Game is developed so that players can give input to tha algorithm 
 
 ## Contributors List and Summary
 
-| SF No.        |   Name          | Features          |    Issuess Raised |   Issues Resolved |      No Test Cases|	 Test Case Pass|
-| :------------ |:---------------:| :---------------: | :---------------:| :---------------:| :---------------:| ---------------:| 
-|               | Mondeep Das     | Python Game       | NIL               |  NIL              |    10             | 10                |
+   |   Name          | Features          |    Issuess Raised |   Issues Resolved |      No Test Cases|	 Test Case Pass|
+   |:---------------:| :---------------: | :---------------:| :---------------:| :---------------:| ---------------:| 
+   | Mondeep Das     | Python Game       | NIL               |  NIL              |    10             | 10           |
 
 ## Challenges Faced and How Was It Overcome
 1. If two Users provide the same input, system is unable to recognize
