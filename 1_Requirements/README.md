@@ -6,8 +6,15 @@
 We are going to define a system which enables players to interact with the system and subsequently have the response(Win or Lose).
 
  ### 1.2 System Scope:
+ 
+ System can easily take inputs from users and give the responses for the same. Project will be really helpfull for entertrainment purpose. 
+ 
+ ### 1.3 Timeline:
+ 
+ ![gantt_chart](https://user-images.githubusercontent.com/39588204/120105435-806f1f80-c176-11eb-8734-e1f010c361f5.PNG)
+
    
- System can easily take inputs from users and give the responses for the same. Project will be really helpfull for entertrainment purpose.   
+  
  
  ## 2.Research and Literature Survey
  Snake Water Gun is one of the famous two-player game played by many people. 
