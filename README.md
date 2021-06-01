@@ -4,9 +4,6 @@
 
 A dual player Game is developed so that players can give input to tha algorithm and it returns the result for the same. Whole code is developed using python and its libraries.
 
-| Build  | Code Quality  | Unity |
-| :------------ |:---------------:| -----:|
-| ![](https://img.shields.io/appveyor/build/mjanu/LTTS_mini_project_SDLC?label=python-Build%20status&logo=passing&logoColor=green)    | some wordy text | $1600 |
 
   ## Folder Structure
 
